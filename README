@@ -1,0 +1,7 @@
+Logistic Regression
+This project was completed to demonstrate my knowledge of the topic.
+It demonstrates:
+  1. Data cleaning and preparation using excel
+  2. Model creation using logistic regression
+  3. Analysis of the training model using cutoff, accuracy, precision, recall and ROC curve.
+  4. Implementation of the training model on the test data and it's analysis.
